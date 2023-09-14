@@ -4,4 +4,5 @@ public enum StatusEffectCode
     NONE,
     BURN,
     SLOWNESS,
+    STUN
 }
